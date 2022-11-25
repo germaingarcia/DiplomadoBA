@@ -1,4 +1,4 @@
-Como instalar Power BI
+¿Cómo instalar Power BI?
 ========================
 Material para diplomado en Business Analytics
 
