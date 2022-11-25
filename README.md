@@ -1,19 +1,18 @@
-Como instalar o Power BI
+Como instalar Power BI
 ========================
+Material para diplomado en Business Analytics
 
-É muito simples realizar o download e instalação do Power BI.
+Es muy sencillo descargar e instalar Power BI.
 
-Para conhecer mais sobre esta poderosa ferramenta, confira nosso [curso Power BI Básico com Machine Learning](https://didatica.tech/curso-de-power-bi-basico-para-machine-learning-e-ciencia-de-dados-gratuito/), estruturado de maneira simples e objetiva, para que você consiga [criar seus primeiros gráficos e dashboards](https://didatica.tech/como-criar-seu-primeiro-dashboard-no-power-bi/) em poucas aulas, seguindo para utilização de [machine learning](https://didatica.tech/o-que-e-machine-learning-aprendizado-de-maquina/) na ferramenta.
+En este tutorial veremos el paso a paso detallado, accediendo al sitio web oficial de Microsoft para descargar el archivo, el cual contiene aproximadamente 300 megas, y los siguientes pasos para la instalación y ejecución inicial del software, el cual tiene una opción en diferentes idiomas, entre ellos Español.
 
-Neste tutorial veremos o passo a passo detalhado, acessando o site oficial da Microsoft para download do arquivo, que contém aproximadamente 300 megabytes, e os passos seguintes para instalação e execução inicial do software, que possui opção em diferentes idiomas, inclusive o português.
+### **Descargar Power BI**
 
-### **Faça o Download do Power BI**
+Hay algunas opciones diferentes para descargar el software. Te indicaremos un camino sencillo que debería funcionar para todos.
 
-Existem algumas opções diferentes para download do software. Iremos indicar um caminho simples e que deve funcionar para todos.
+*   Entrar [esta página](https://powerbi.microsoft.com/es-es/desktop/), Click en la opción “_**Consulte las opciones de descarga e idiomas disponibles**_”, conforme a la imagen.
 
-*   Acesse [esta página](https://powerbi.microsoft.com/pt-br/desktop), e clique sobre a opção “_**Veja as opções de download e idioma**_”, conforme destaque abaixo.
-
-![Site para download do Power BI](https://didatica.tech/wp-content/uploads/2020/04/Download_Power_BI-1.png)
+![Sitio de descarga de Power BI](https://github.com/germaingarcia/DiplomadoBA/blob/main/imagenesPBI/descarga.png)
 
 *   Selecione o idioma desejado e espere a atualização da página. Você pode optar por “_**Portuguese (Brazil)**_” para uma instalação em português.
 
